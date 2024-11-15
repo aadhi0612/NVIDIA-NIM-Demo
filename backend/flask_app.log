@@ -1,0 +1,448 @@
+2024-11-13 01:43:59,011 - INFO - Starting server on port 5000
+2024-11-13 01:43:59,011 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:43:59,012 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:43:59,031 - WARNING -  * Debugger is active!
+2024-11-13 01:43:59,033 - INFO -  * Debugger PIN: 895-332-477
+2024-11-13 01:46:27,262 - INFO - Starting server on port 5000
+2024-11-13 01:46:27,262 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:46:27,262 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:46:27,267 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 01:46:27,267 - INFO -  * Running on http://172.31.11.168:5000/ (Press CTRL+C to quit)
+2024-11-13 01:46:27,268 - INFO -  * Restarting with stat
+2024-11-13 01:46:27,428 - INFO - Starting server on port 5000
+2024-11-13 01:46:27,428 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:46:27,428 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:46:27,431 - WARNING -  * Debugger is active!
+2024-11-13 01:46:27,432 - INFO -  * Debugger PIN: 120-989-795
+2024-11-13 01:47:26,032 - INFO - Starting server on port 5000
+2024-11-13 01:47:26,032 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:47:26,032 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:47:26,037 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 01:47:26,037 - INFO -  * Running on http://172.31.11.168:5000/ (Press CTRL+C to quit)
+2024-11-13 01:47:26,038 - INFO -  * Restarting with stat
+2024-11-13 01:47:26,196 - INFO - Starting server on port 5000
+2024-11-13 01:47:26,196 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:47:26,196 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:47:26,200 - WARNING -  * Debugger is active!
+2024-11-13 01:47:26,200 - INFO -  * Debugger PIN: 895-332-477
+2024-11-13 01:50:30,985 - INFO - Starting server on port 5000
+2024-11-13 01:50:30,985 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:50:30,986 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:50:30,991 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 01:50:30,991 - INFO -  * Running on http://172.31.11.168:5000/ (Press CTRL+C to quit)
+2024-11-13 01:50:30,992 - INFO -  * Restarting with stat
+2024-11-13 01:50:31,150 - INFO - Starting server on port 5000
+2024-11-13 01:50:31,151 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:50:31,151 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:50:31,154 - WARNING -  * Debugger is active!
+2024-11-13 01:50:31,155 - INFO -  * Debugger PIN: 895-332-477
+2024-11-13 01:52:03,404 - INFO - Starting server on port 5000
+2024-11-13 01:52:03,404 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:52:03,404 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:52:03,409 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 01:52:03,409 - INFO -  * Running on http://172.31.11.168:5000/ (Press CTRL+C to quit)
+2024-11-13 01:52:03,410 - INFO -  * Restarting with stat
+2024-11-13 01:52:03,568 - INFO - Starting server on port 5000
+2024-11-13 01:52:03,568 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:52:03,568 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:52:03,571 - WARNING -  * Debugger is active!
+2024-11-13 01:52:03,572 - INFO -  * Debugger PIN: 895-332-477
+2024-11-13 01:52:41,279 - INFO - Starting server on port 5000
+2024-11-13 01:52:41,279 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:52:41,279 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:52:41,284 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 01:52:41,284 - INFO -  * Running on http://172.31.11.168:5000/ (Press CTRL+C to quit)
+2024-11-13 01:52:41,285 - INFO -  * Restarting with stat
+2024-11-13 01:52:41,442 - ERROR - Port 5000 is already in use
+2024-11-13 01:52:41,442 - INFO - Using alternative port: 5001
+2024-11-13 01:52:41,442 - INFO - Starting server on port 5001
+2024-11-13 01:52:41,442 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:52:41,442 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:52:41,446 - WARNING -  * Debugger is active!
+2024-11-13 01:52:41,446 - INFO -  * Debugger PIN: 895-332-477
+2024-11-13 01:52:42,135 - INFO - Health check endpoint called
+2024-11-13 01:52:42,136 - INFO - 127.0.0.1 - - [13/Nov/2024 01:52:42] "GET / HTTP/1.1" 200 -
+2024-11-13 01:53:52,626 - ERROR - Port 5000 is already in use
+2024-11-13 01:53:52,626 - INFO - Using alternative port: 5001
+2024-11-13 01:53:52,626 - INFO - Starting server on port 5001
+2024-11-13 01:53:52,626 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:53:52,626 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:53:52,631 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 01:53:52,631 - INFO -  * Running on http://172.31.11.168:5001/ (Press CTRL+C to quit)
+2024-11-13 01:53:52,632 - INFO -  * Restarting with stat
+2024-11-13 01:53:52,785 - ERROR - Port 5000 is already in use
+2024-11-13 01:53:52,785 - INFO - Using alternative port: 5002
+2024-11-13 01:53:52,785 - INFO - Starting server on port 5002
+2024-11-13 01:53:52,785 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:53:52,785 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:53:52,789 - WARNING -  * Debugger is active!
+2024-11-13 01:53:52,789 - INFO -  * Debugger PIN: 120-989-795
+2024-11-13 01:55:10,146 - INFO - Starting server on port 5000
+2024-11-13 01:55:10,147 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:55:10,147 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:55:10,151 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 01:55:10,152 - INFO -  * Running on http://172.31.11.168:5000/ (Press CTRL+C to quit)
+2024-11-13 01:55:10,152 - INFO -  * Restarting with stat
+2024-11-13 01:55:10,307 - ERROR - Port 5000 is already in use
+2024-11-13 01:55:10,307 - INFO - Using alternative port: 5001
+2024-11-13 01:55:10,307 - INFO - Starting server on port 5001
+2024-11-13 01:55:10,308 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:55:10,308 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:55:10,311 - WARNING -  * Debugger is active!
+2024-11-13 01:55:10,312 - INFO -  * Debugger PIN: 120-989-795
+2024-11-13 01:57:34,029 - INFO -  * Detected change in '/home/ubuntu/NVIDIA-AI/backend/app.py', reloading
+2024-11-13 01:57:34,082 - INFO -  * Restarting with stat
+2024-11-13 01:57:34,282 - ERROR - Port 5000 is already in use
+2024-11-13 01:57:34,282 - INFO - Using alternative port: 5001
+2024-11-13 01:57:34,282 - INFO - Starting server on port 5001
+2024-11-13 01:57:34,282 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:57:34,282 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:57:34,286 - WARNING -  * Debugger is active!
+2024-11-13 01:57:34,287 - INFO -  * Debugger PIN: 120-989-795
+2024-11-13 01:57:43,524 - INFO - Starting server on port 5001
+2024-11-13 01:57:43,524 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:57:43,525 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:57:43,530 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 01:57:43,530 - INFO -  * Running on http://172.31.11.168:5001/ (Press CTRL+C to quit)
+2024-11-13 01:57:43,531 - INFO -  * Restarting with stat
+2024-11-13 01:57:43,709 - ERROR - Port 5001 is already in use
+2024-11-13 01:57:43,710 - INFO - Using alternative port: 5002
+2024-11-13 01:57:43,710 - INFO - Starting server on port 5002
+2024-11-13 01:57:43,710 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 01:57:43,710 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 01:57:43,714 - WARNING -  * Debugger is active!
+2024-11-13 01:57:43,714 - INFO -  * Debugger PIN: 895-332-477
+2024-11-13 02:07:30,555 - INFO - Starting server on port 5001
+2024-11-13 02:07:30,555 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 02:07:30,555 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 02:07:30,560 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 02:07:30,560 - INFO -  * Running on http://172.31.11.168:5001/ (Press CTRL+C to quit)
+2024-11-13 02:07:30,561 - INFO -  * Restarting with stat
+2024-11-13 02:07:30,725 - ERROR - Port 5001 is already in use
+2024-11-13 02:07:30,725 - INFO - Using alternative port: 5002
+2024-11-13 02:07:30,725 - INFO - Starting server on port 5002
+2024-11-13 02:07:30,725 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 02:07:30,725 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 02:07:30,729 - WARNING -  * Debugger is active!
+2024-11-13 02:07:30,729 - INFO -  * Debugger PIN: 895-332-477
+2024-11-13 02:22:52,621 - INFO - Starting server on port 5007
+2024-11-13 02:22:52,621 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 02:22:52,621 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 02:22:52,626 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 02:22:52,626 - INFO -  * Running on http://172.31.11.168:5007/ (Press CTRL+C to quit)
+2024-11-13 02:22:52,627 - INFO -  * Restarting with stat
+2024-11-13 02:22:52,787 - INFO - Starting server on port 5007
+2024-11-13 02:22:52,787 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 02:22:52,788 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 02:22:52,791 - WARNING -  * Debugger is active!
+2024-11-13 02:22:52,792 - INFO -  * Debugger PIN: 120-989-795
+2024-11-13 02:23:43,830 - INFO - Starting server on port 5007
+2024-11-13 02:23:43,830 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 02:23:43,831 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 02:23:43,835 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 02:23:43,836 - INFO -  * Running on http://172.31.11.168:5007/ (Press CTRL+C to quit)
+2024-11-13 02:23:43,836 - INFO -  * Restarting with stat
+2024-11-13 02:23:43,992 - INFO - Starting server on port 5007
+2024-11-13 02:23:43,992 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 02:23:43,992 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 02:23:43,998 - WARNING -  * Debugger is active!
+2024-11-13 02:23:43,998 - INFO -  * Debugger PIN: 120-989-795
+2024-11-13 02:23:52,292 - INFO - Starting server on port 5007
+2024-11-13 02:23:52,292 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 02:23:52,292 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 02:23:52,297 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 02:23:52,297 - INFO -  * Running on http://172.31.11.168:5007/ (Press CTRL+C to quit)
+2024-11-13 02:23:52,297 - INFO -  * Restarting with stat
+2024-11-13 02:23:52,456 - INFO - Starting server on port 5007
+2024-11-13 02:23:52,456 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 02:23:52,456 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 02:23:52,460 - WARNING -  * Debugger is active!
+2024-11-13 02:23:52,460 - INFO -  * Debugger PIN: 120-989-795
+2024-11-13 02:24:19,889 - INFO - Starting server on port 5007
+2024-11-13 02:24:19,889 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 02:24:19,889 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 02:24:19,894 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 02:24:19,894 - INFO -  * Running on http://172.31.11.168:5007/ (Press CTRL+C to quit)
+2024-11-13 02:24:19,895 - INFO -  * Restarting with stat
+2024-11-13 02:24:20,067 - INFO - Starting server on port 5007
+2024-11-13 02:24:20,067 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 02:24:20,067 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 02:24:20,071 - WARNING -  * Debugger is active!
+2024-11-13 02:24:20,071 - INFO -  * Debugger PIN: 120-989-795
+2024-11-13 02:24:48,648 - INFO - 127.0.0.1 - - [13/Nov/2024 02:24:48] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-13 02:24:49,277 - INFO - === New Translation Request ===
+2024-11-13 02:24:49,278 - INFO - Time: 2024-11-13 02:24:49.278005
+2024-11-13 02:24:49,278 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '70', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-13 02:24:49,278 - INFO - Request data: {'text': 'Hii', 'source_language_code': 'en', 'target_language_code': 'ar'}
+2024-11-13 02:24:49,278 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py --server 0.0.0.0:50051 --text Hii --source-language-code en --target-language-code ar
+2024-11-13 02:24:49,541 - INFO - Command return code: 0
+2024-11-13 02:24:49,542 - INFO - Command stdout: هي
+
+2024-11-13 02:24:49,542 - INFO - Command stderr: 
+2024-11-13 02:24:49,542 - INFO - Translation successful: هي
+2024-11-13 02:24:49,543 - INFO - 127.0.0.1 - - [13/Nov/2024 02:24:49] "POST /translate HTTP/1.1" 200 -
+2024-11-13 02:43:07,738 - INFO - 127.0.0.1 - - [13/Nov/2024 02:43:07] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-13 02:43:08,056 - INFO - === New Translation Request ===
+2024-11-13 02:43:08,057 - INFO - Time: 2024-11-13 02:43:08.057171
+2024-11-13 02:43:08,057 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '70', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-13 02:43:08,057 - INFO - Request data: {'text': 'Hii', 'source_language_code': 'en', 'target_language_code': 'ar'}
+2024-11-13 02:43:08,057 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py --server 0.0.0.0:50051 --text Hii --source-language-code en --target-language-code ar
+2024-11-13 02:43:08,329 - INFO - Command return code: 0
+2024-11-13 02:43:08,329 - INFO - Command stdout: هي
+
+2024-11-13 02:43:08,329 - INFO - Command stderr: 
+2024-11-13 02:43:08,329 - INFO - Translation successful: هي
+2024-11-13 02:43:08,330 - INFO - 127.0.0.1 - - [13/Nov/2024 02:43:08] "POST /translate HTTP/1.1" 200 -
+2024-11-13 02:43:10,709 - INFO - === New Translation Request ===
+2024-11-13 02:43:10,709 - INFO - Time: 2024-11-13 02:43:10.709603
+2024-11-13 02:43:10,709 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '70', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-13 02:43:10,710 - INFO - Request data: {'text': 'Hii', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-13 02:43:10,710 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py --server 0.0.0.0:50051 --text Hii --source-language-code en --target-language-code fr
+2024-11-13 02:43:10,954 - INFO - Command return code: 0
+2024-11-13 02:43:10,954 - INFO - Command stdout: Hii
+
+2024-11-13 02:43:10,954 - INFO - Command stderr: 
+2024-11-13 02:43:10,955 - INFO - Translation successful: Hii
+2024-11-13 02:43:10,955 - INFO - 127.0.0.1 - - [13/Nov/2024 02:43:10] "POST /translate HTTP/1.1" 200 -
+2024-11-13 02:43:13,329 - INFO - 127.0.0.1 - - [13/Nov/2024 02:43:13] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-13 02:43:13,671 - INFO - === New Translation Request ===
+2024-11-13 02:43:13,671 - INFO - Time: 2024-11-13 02:43:13.671921
+2024-11-13 02:43:13,672 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '70', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-13 02:43:13,672 - INFO - Request data: {'text': 'Hii', 'source_language_code': 'en', 'target_language_code': 'hi'}
+2024-11-13 02:43:13,672 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py --server 0.0.0.0:50051 --text Hii --source-language-code en --target-language-code hi
+2024-11-13 02:43:13,916 - INFO - Command return code: 0
+2024-11-13 02:43:13,916 - INFO - Command stdout: हाई
+
+2024-11-13 02:43:13,916 - INFO - Command stderr: 
+2024-11-13 02:43:13,916 - INFO - Translation successful: हाई
+2024-11-13 02:43:13,917 - INFO - 127.0.0.1 - - [13/Nov/2024 02:43:13] "POST /translate HTTP/1.1" 200 -
+2024-11-13 02:43:16,287 - INFO - === New Translation Request ===
+2024-11-13 02:43:16,287 - INFO - Time: 2024-11-13 02:43:16.287662
+2024-11-13 02:43:16,287 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '70', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-13 02:43:16,288 - INFO - Request data: {'text': 'Hii', 'source_language_code': 'en', 'target_language_code': 'zh'}
+2024-11-13 02:43:16,288 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py --server 0.0.0.0:50051 --text Hii --source-language-code en --target-language-code zh
+2024-11-13 02:43:16,588 - INFO - Command return code: 0
+2024-11-13 02:43:16,588 - INFO - Command stdout: 嗨
+
+2024-11-13 02:43:16,588 - INFO - Command stderr: 
+2024-11-13 02:43:16,588 - INFO - Translation successful: 嗨
+2024-11-13 02:43:16,589 - INFO - 127.0.0.1 - - [13/Nov/2024 02:43:16] "POST /translate HTTP/1.1" 200 -
+2024-11-13 02:43:22,329 - INFO - 127.0.0.1 - - [13/Nov/2024 02:43:22] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-13 02:43:22,730 - INFO - === New Translation Request ===
+2024-11-13 02:43:22,730 - INFO - Time: 2024-11-13 02:43:22.730970
+2024-11-13 02:43:22,731 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '70', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-13 02:43:22,731 - INFO - Request data: {'text': 'Hii', 'source_language_code': 'en', 'target_language_code': 'ja'}
+2024-11-13 02:43:22,731 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py --server 0.0.0.0:50051 --text Hii --source-language-code en --target-language-code ja
+2024-11-13 02:43:23,001 - INFO - Command return code: 0
+2024-11-13 02:43:23,001 - INFO - Command stdout: ヒイ
+
+2024-11-13 02:43:23,001 - INFO - Command stderr: 
+2024-11-13 02:43:23,001 - INFO - Translation successful: ヒイ
+2024-11-13 02:43:23,001 - INFO - 127.0.0.1 - - [13/Nov/2024 02:43:23] "POST /translate HTTP/1.1" 200 -
+2024-11-13 10:00:56,972 - INFO - Starting server on port 5007
+2024-11-13 10:00:56,973 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 10:00:56,973 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 10:00:56,980 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-13 10:00:56,980 - INFO -  * Running on http://172.31.11.168:5007/ (Press CTRL+C to quit)
+2024-11-13 10:00:56,981 - INFO -  * Restarting with stat
+2024-11-13 10:00:57,180 - INFO - Starting server on port 5007
+2024-11-13 10:00:57,180 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-13 10:00:57,180 - INFO - Script path: /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py
+2024-11-13 10:00:57,184 - WARNING -  * Debugger is active!
+2024-11-13 10:00:57,184 - INFO -  * Debugger PIN: 120-989-795
+2024-11-13 10:29:34,237 - INFO - 127.0.0.1 - - [13/Nov/2024 10:29:34] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-13 10:29:34,544 - INFO - === New Translation Request ===
+2024-11-13 10:29:34,545 - INFO - Time: 2024-11-13 10:29:34.545106
+2024-11-13 10:29:34,545 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '84', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-13 10:29:34,545 - INFO - Request data: {'text': 'Hii how are you??', 'source_language_code': 'en', 'target_language_code': 'hi'}
+2024-11-13 10:29:34,546 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py --server 0.0.0.0:50051 --text Hii how are you?? --source-language-code en --target-language-code hi
+2024-11-13 10:29:35,736 - INFO - Command return code: 0
+2024-11-13 10:29:35,736 - INFO - Command stdout: हाय आप कैसे हैं??
+
+2024-11-13 10:29:35,736 - INFO - Command stderr: 
+2024-11-13 10:29:35,736 - INFO - Translation successful: हाय आप कैसे हैं??
+2024-11-13 10:29:35,737 - INFO - 127.0.0.1 - - [13/Nov/2024 10:29:35] "POST /translate HTTP/1.1" 200 -
+2024-11-13 10:29:49,087 - INFO - 127.0.0.1 - - [13/Nov/2024 10:29:49] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-13 10:29:49,514 - INFO - === New Translation Request ===
+2024-11-13 10:29:49,514 - INFO - Time: 2024-11-13 10:29:49.514298
+2024-11-13 10:29:49,514 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '84', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-13 10:29:49,514 - INFO - Request data: {'text': 'Hii how are you??', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-13 10:29:49,514 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py --server 0.0.0.0:50051 --text Hii how are you?? --source-language-code en --target-language-code fr
+2024-11-13 10:29:49,946 - INFO - Command return code: 0
+2024-11-13 10:29:49,947 - INFO - Command stdout: Hii comment allez vous??
+
+2024-11-13 10:29:49,947 - INFO - Command stderr: 
+2024-11-13 10:29:49,947 - INFO - Translation successful: Hii comment allez vous??
+2024-11-13 10:29:49,948 - INFO - 127.0.0.1 - - [13/Nov/2024 10:29:49] "POST /translate HTTP/1.1" 200 -
+2024-11-13 10:30:35,903 - INFO - 127.0.0.1 - - [13/Nov/2024 10:30:35] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-13 10:30:36,146 - INFO - === New Translation Request ===
+2024-11-13 10:30:36,146 - INFO - Time: 2024-11-13 10:30:36.146295
+2024-11-13 10:30:36,146 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '790', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-13 10:30:36,146 - INFO - Request data: {'text': 'The Megatron Multilingual 1.5B Neural Machine Translation model translates text in any to any directions across the 33 supported languages, including non-English centric translation (such as French to Chinese, etc). The Supported languages are: English(en), Czech(cs), Danish (da), German(de), Greek(el), Spanish(es), Finnish(fi), France(fr), Hungarian(hu), Italian(it), Lithuanian(lt), Latvian(lv),Dutch(nl), Norwegian(no), Polish(pl), Portugese(pt), Romanian(ro), Russian(ru), Slovak(sk), Swedish(sv), Chinese(zh), Japanese(ja), Hindi(hi), Korean(ko), Estonian(et), Slovenian(sl), Bulgarian(bg), Ukrainian(uk), Croatian(hr), Arabic(ar), Vietnamese(vi), Turkish(tr), Indonesian(id). This model is ready for commercial use.', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-13 10:30:36,146 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/python-clients/scripts/nmt/nmt.py --server 0.0.0.0:50051 --text The Megatron Multilingual 1.5B Neural Machine Translation model translates text in any to any directions across the 33 supported languages, including non-English centric translation (such as French to Chinese, etc). The Supported languages are: English(en), Czech(cs), Danish (da), German(de), Greek(el), Spanish(es), Finnish(fi), France(fr), Hungarian(hu), Italian(it), Lithuanian(lt), Latvian(lv),Dutch(nl), Norwegian(no), Polish(pl), Portugese(pt), Romanian(ro), Russian(ru), Slovak(sk), Swedish(sv), Chinese(zh), Japanese(ja), Hindi(hi), Korean(ko), Estonian(et), Slovenian(sl), Bulgarian(bg), Ukrainian(uk), Croatian(hr), Arabic(ar), Vietnamese(vi), Turkish(tr), Indonesian(id). This model is ready for commercial use. --source-language-code en --target-language-code fr
+2024-11-13 10:30:50,134 - INFO - Command return code: 0
+2024-11-13 10:30:50,134 - INFO - Command stdout: Le modèle de traduction automatique neuronale multilingue 1.5B de Megatron traduit le texte dans n'importe quelle direction dans les 33 langues prises en charge, y compris la traduction non anglaise (telle que le français vers le chinois, etc.). Les langues prises en charge sont: anglais (en), tchèque (cs), danois (da), allemand (de), grec (el), espagnol (es), finnois (fi), français (fr), hongrois (hu), italien (it), lituanien (lt), letton (lv), néerlandais (nl), norvégien (no), polonais (pl), portugais (pt), roumain (ro), russe (ru), slovaque (sk), suédois (sv), chinois (zh), japonais
+
+2024-11-13 10:30:50,134 - INFO - Command stderr: 
+2024-11-13 10:30:50,134 - INFO - Translation successful: Le modèle de traduction automatique neuronale multilingue 1.5B de Megatron traduit le texte dans n'importe quelle direction dans les 33 langues prises en charge, y compris la traduction non anglaise (telle que le français vers le chinois, etc.). Les langues prises en charge sont: anglais (en), tchèque (cs), danois (da), allemand (de), grec (el), espagnol (es), finnois (fi), français (fr), hongrois (hu), italien (it), lituanien (lt), letton (lv), néerlandais (nl), norvégien (no), polonais (pl), portugais (pt), roumain (ro), russe (ru), slovaque (sk), suédois (sv), chinois (zh), japonais
+2024-11-13 10:30:50,135 - INFO - 127.0.0.1 - - [13/Nov/2024 10:30:50] "POST /translate HTTP/1.1" 200 -
+2024-11-14 23:48:35,155 - INFO - Starting server on port 5007
+2024-11-14 23:48:35,155 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-14 23:48:35,155 - INFO - Script path: /home/ubuntu/NVIDIA-AI/nmt.py
+2024-11-14 23:48:35,163 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-14 23:48:35,164 - INFO -  * Running on http://172.31.11.168:5007/ (Press CTRL+C to quit)
+2024-11-14 23:48:35,165 - INFO -  * Restarting with stat
+2024-11-14 23:48:35,318 - INFO - Starting server on port 5007
+2024-11-14 23:48:35,318 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-14 23:48:35,318 - INFO - Script path: /home/ubuntu/NVIDIA-AI/nmt.py
+2024-11-14 23:48:35,322 - WARNING -  * Debugger is active!
+2024-11-14 23:48:35,322 - INFO -  * Debugger PIN: 728-532-150
+2024-11-15 00:03:19,489 - INFO - 127.0.0.1 - - [15/Nov/2024 00:03:19] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 00:03:20,356 - INFO - === New Translation Request ===
+2024-11-15 00:03:20,358 - INFO - Time: 2024-11-15 00:03:20.356623
+2024-11-15 00:03:20,360 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '72', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 00:03:20,384 - INFO - Request data: {'text': 'hiiii', 'source_language_code': 'en', 'target_language_code': 'ar'}
+2024-11-15 00:03:20,385 - ERROR - NMT script not found: /home/ubuntu/NVIDIA-AI/nmt.py
+2024-11-15 00:03:20,395 - INFO - 127.0.0.1 - - [15/Nov/2024 00:03:20] "[35m[1mPOST /translate HTTP/1.1[0m" 500 -
+2024-11-15 00:04:25,453 - INFO -  * Detected change in '/home/ubuntu/NVIDIA-AI/backend/app.py', reloading
+2024-11-15 00:04:26,365 - INFO -  * Restarting with stat
+2024-11-15 00:04:26,887 - INFO - Starting server on port 5007
+2024-11-15 00:04:26,888 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-15 00:04:26,888 - INFO - Script path: /home/ubuntu/NVIDIA-AI/backend/nmt.py
+2024-11-15 00:04:26,897 - WARNING -  * Debugger is active!
+2024-11-15 00:04:26,897 - INFO -  * Debugger PIN: 728-532-150
+2024-11-15 00:07:00,495 - INFO - 127.0.0.1 - - [15/Nov/2024 00:07:00] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 00:07:01,291 - INFO - === New Translation Request ===
+2024-11-15 00:07:01,292 - INFO - Time: 2024-11-15 00:07:01.292123
+2024-11-15 00:07:01,292 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '72', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 00:07:01,292 - INFO - Request data: {'text': 'hiiii', 'source_language_code': 'en', 'target_language_code': 'ar'}
+2024-11-15 00:07:01,292 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text hiiii --source-language-code en --target-language-code ar
+2024-11-15 00:07:04,779 - INFO - Command return code: 0
+2024-11-15 00:07:04,779 - INFO - Command stdout: الثاني
+
+2024-11-15 00:07:04,779 - INFO - Command stderr: 
+2024-11-15 00:07:04,780 - INFO - Translation successful: الثاني
+2024-11-15 00:07:04,780 - INFO - 127.0.0.1 - - [15/Nov/2024 00:07:04] "POST /translate HTTP/1.1" 200 -
+2024-11-15 00:07:11,229 - INFO - 127.0.0.1 - - [15/Nov/2024 00:07:11] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 00:07:12,255 - INFO - === New Translation Request ===
+2024-11-15 00:07:12,255 - INFO - Time: 2024-11-15 00:07:12.255562
+2024-11-15 00:07:12,255 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '72', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 00:07:12,256 - INFO - Request data: {'text': 'hiiii', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-15 00:07:12,256 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text hiiii --source-language-code en --target-language-code fr
+2024-11-15 00:07:12,530 - INFO - Command return code: 0
+2024-11-15 00:07:12,530 - INFO - Command stdout: hiiii
+
+2024-11-15 00:07:12,530 - INFO - Command stderr: 
+2024-11-15 00:07:12,530 - INFO - Translation successful: hiiii
+2024-11-15 00:07:12,530 - INFO - 127.0.0.1 - - [15/Nov/2024 00:07:12] "POST /translate HTTP/1.1" 200 -
+2024-11-15 00:07:17,064 - INFO - 127.0.0.1 - - [15/Nov/2024 00:07:17] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 00:07:18,398 - INFO - === New Translation Request ===
+2024-11-15 00:07:18,398 - INFO - Time: 2024-11-15 00:07:18.398273
+2024-11-15 00:07:18,398 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '72', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 00:07:18,398 - INFO - Request data: {'text': 'hiiii', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-15 00:07:18,398 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text hiiii --source-language-code en --target-language-code fr
+2024-11-15 00:07:18,656 - INFO - Command return code: 0
+2024-11-15 00:07:18,656 - INFO - Command stdout: hiiii
+
+2024-11-15 00:07:18,656 - INFO - Command stderr: 
+2024-11-15 00:07:18,656 - INFO - Translation successful: hiiii
+2024-11-15 00:07:18,657 - INFO - 127.0.0.1 - - [15/Nov/2024 00:07:18] "POST /translate HTTP/1.1" 200 -
+2024-11-15 00:07:25,978 - INFO - 127.0.0.1 - - [15/Nov/2024 00:07:25] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 00:07:27,202 - INFO - === New Translation Request ===
+2024-11-15 00:07:27,203 - INFO - Time: 2024-11-15 00:07:27.203089
+2024-11-15 00:07:27,203 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '80', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 00:07:27,203 - INFO - Request data: {'text': 'heyy whats up', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-15 00:07:27,203 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text heyy whats up --source-language-code en --target-language-code fr
+2024-11-15 00:07:27,639 - INFO - Command return code: 0
+2024-11-15 00:07:27,639 - INFO - Command stdout: Hey, qui est-il
+
+2024-11-15 00:07:27,639 - INFO - Command stderr: 
+2024-11-15 00:07:27,640 - INFO - Translation successful: Hey, qui est-il
+2024-11-15 00:07:27,640 - INFO - 127.0.0.1 - - [15/Nov/2024 00:07:27] "POST /translate HTTP/1.1" 200 -
+2024-11-15 00:07:35,600 - INFO - 127.0.0.1 - - [15/Nov/2024 00:07:35] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 00:07:36,829 - INFO - === New Translation Request ===
+2024-11-15 00:07:36,830 - INFO - Time: 2024-11-15 00:07:36.830092
+2024-11-15 00:07:36,830 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '77', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 00:07:36,830 - INFO - Request data: {'text': 'i love you', 'source_language_code': 'en', 'target_language_code': 'ja'}
+2024-11-15 00:07:36,830 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text i love you --source-language-code en --target-language-code ja
+2024-11-15 00:07:37,166 - INFO - Command return code: 0
+2024-11-15 00:07:37,166 - INFO - Command stdout: 愛してるよ
+
+2024-11-15 00:07:37,166 - INFO - Command stderr: 
+2024-11-15 00:07:37,166 - INFO - Translation successful: 愛してるよ
+2024-11-15 00:07:37,167 - INFO - 127.0.0.1 - - [15/Nov/2024 00:07:37] "POST /translate HTTP/1.1" 200 -
+2024-11-15 12:08:25,222 - INFO - Starting server on port 5007
+2024-11-15 12:08:25,223 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-15 12:08:25,223 - INFO - Script path: /home/ubuntu/NVIDIA-AI/backend/nmt.py
+2024-11-15 12:08:25,231 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-15 12:08:25,232 - INFO -  * Running on http://172.31.11.168:5007/ (Press CTRL+C to quit)
+2024-11-15 12:08:25,233 - INFO -  * Restarting with stat
+2024-11-15 12:08:25,386 - INFO - Starting server on port 5007
+2024-11-15 12:08:25,386 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-15 12:08:25,387 - INFO - Script path: /home/ubuntu/NVIDIA-AI/backend/nmt.py
+2024-11-15 12:08:25,390 - WARNING -  * Debugger is active!
+2024-11-15 12:08:25,390 - INFO -  * Debugger PIN: 107-103-510
+2024-11-15 12:08:40,233 - INFO - 127.0.0.1 - - [15/Nov/2024 12:08:40] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 12:08:40,572 - INFO - === New Translation Request ===
+2024-11-15 12:08:40,573 - INFO - Time: 2024-11-15 12:08:40.573058
+2024-11-15 12:08:40,573 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '70', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 12:08:40,573 - INFO - Request data: {'text': 'Hii', 'source_language_code': 'en', 'target_language_code': 'ar'}
+2024-11-15 12:08:40,573 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text Hii --source-language-code en --target-language-code ar
+2024-11-15 12:08:41,687 - INFO - Command return code: 0
+2024-11-15 12:08:41,687 - INFO - Command stdout: هي
+
+2024-11-15 12:08:41,687 - INFO - Command stderr: 
+2024-11-15 12:08:41,687 - INFO - Translation successful: هي
+2024-11-15 12:08:41,688 - INFO - 127.0.0.1 - - [15/Nov/2024 12:08:41] "POST /translate HTTP/1.1" 200 -
+2024-11-15 12:18:40,728 - INFO - 127.0.0.1 - - [15/Nov/2024 12:18:40] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 12:18:41,238 - INFO - === New Translation Request ===
+2024-11-15 12:18:41,238 - INFO - Time: 2024-11-15 12:18:41.238888
+2024-11-15 12:18:41,239 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '70', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 12:18:41,239 - INFO - Request data: {'text': 'Hii', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-15 12:18:41,239 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text Hii --source-language-code en --target-language-code fr
+2024-11-15 12:18:41,471 - INFO - Command return code: 0
+2024-11-15 12:18:41,471 - INFO - Command stdout: Hii
+
+2024-11-15 12:18:41,471 - INFO - Command stderr: 
+2024-11-15 12:18:41,472 - INFO - Translation successful: Hii
+2024-11-15 12:18:41,472 - INFO - 127.0.0.1 - - [15/Nov/2024 12:18:41] "POST /translate HTTP/1.1" 200 -
+2024-11-15 12:18:46,968 - INFO - 127.0.0.1 - - [15/Nov/2024 12:18:46] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 12:18:47,681 - INFO - === New Translation Request ===
+2024-11-15 12:18:47,681 - INFO - Time: 2024-11-15 12:18:47.681230
+2024-11-15 12:18:47,681 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '82', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 12:18:47,681 - INFO - Request data: {'text': 'Hii how are you', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-15 12:18:47,681 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text Hii how are you --source-language-code en --target-language-code fr
+2024-11-15 12:18:48,027 - INFO - Command return code: 0
+2024-11-15 12:18:48,027 - INFO - Command stdout: Hii comment allez vous
+
+2024-11-15 12:18:48,027 - INFO - Command stderr: 
+2024-11-15 12:18:48,027 - INFO - Translation successful: Hii comment allez vous
+2024-11-15 12:18:48,028 - INFO - 127.0.0.1 - - [15/Nov/2024 12:18:48] "POST /translate HTTP/1.1" 200 -
+2024-11-15 12:25:13,837 - INFO - 127.0.0.1 - - [15/Nov/2024 12:25:13] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 12:25:14,359 - INFO - === New Translation Request ===
+2024-11-15 12:25:14,359 - INFO - Time: 2024-11-15 12:25:14.359155
+2024-11-15 12:25:14,359 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '92', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 12:25:14,359 - INFO - Request data: {'text': 'Can you explain about LLM', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-15 12:25:14,359 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text Can you explain about LLM --source-language-code en --target-language-code fr
+2024-11-15 12:25:14,864 - INFO - Command return code: 0
+2024-11-15 12:25:14,864 - INFO - Command stdout: Pouvez-vous expliquer à propos de LLM
+
+2024-11-15 12:25:14,864 - INFO - Command stderr: 
+2024-11-15 12:25:14,864 - INFO - Translation successful: Pouvez-vous expliquer à propos de LLM
+2024-11-15 12:25:14,865 - INFO - 127.0.0.1 - - [15/Nov/2024 12:25:14] "POST /translate HTTP/1.1" 200 -
