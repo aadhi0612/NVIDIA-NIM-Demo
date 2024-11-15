@@ -1,0 +1,117 @@
+Here's a possible `README.md` file for the repository:
+
+```markdown
+# NVIDIA NIM Demo
+
+This repository demonstrates NVIDIA's Network Infrastructure Management (NIM) capabilities. It includes examples and configurations to showcase the features, functionalities, and use cases of NVIDIA NIM.
+
+## Features
+
+- **Network Monitoring**: View and analyze network traffic in real-time.
+- **Infrastructure Automation**: Automate network configurations and tasks.
+- **Performance Optimization**: Enhance network throughput and reduce latency.
+- **Integration Examples**: Examples of integrating NIM with existing systems.
+
+## Prerequisites
+
+Ensure you have the following:
+
+- **Hardware Requirements**:
+  - NVIDIA-compatible networking devices
+  - Minimum system specifications: 16GB RAM, 4-core processor
+  - Enterprise NVIDIA Account.
+- **Software Requirements**:
+  - Python 3.8+ installed
+  - NVIDIA NIM installed and configured
+  - Docker (if using containerized deployments)
+
+## Installation
+
+Follow these steps to set up the demo:
+
+1. Clone the repository:
+
+   ```bash
+   git clone git@github-1:aadhi0612/NVIDIA-NIM-Demo.git
+   cd NVIDIA-NIM-Demo
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Configure NIM settings by updating the `config.yaml` file.
+
+## Usage
+
+Run the demo application:
+
+```bash
+run the docker container
+
+docker login nvcr.io
+
+export NGC_API_KEY=<api key>
+
+
+
+export CONTAINER_NAME=megatron-1b-nmt
+docker run -it --rm --name=$CONTAINER_NAME \
+  --runtime=nvidia \
+  --gpus '"device=0"' \
+  --shm-size=8GB \
+  -e NGC_API_KEY=$NGC_API_KEY \
+  -e NIM_MANIFEST_PROFILE=89e2a0b4-477e-11ef-b226-cf5f41e3c684 \
+  -e NIM_HTTP_API_PORT=3003 \
+  -e NIM_GRPC_API_PORT=50051 \
+  -p 3003:3003 \
+  -p 50051:50051 \
+  nvcr.io/nim/nvidia/megatron-1b-nmt:1.0.0
+  
+```
+
+### Example Scenarios
+
+- **Monitoring Traffic**: View network metrics in real-time.
+- **Automating Configurations**: Use predefined scripts to configure your network devices.
+- **Analyzing Performance**: Generate performance reports.
+
+## Repository Structure
+
+```plaintext
+NVIDIA-NIM-Demo/
+├── config.yaml          # Configuration file for NIM setup
+├── demo.py              # Main script to run the demo
+├── requirements.txt     # Python dependencies
+├── README.md            # Project documentation
+├── examples/            # Example configurations and scripts
+└── docs/                # Additional documentation
+```
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Support
+
+If you encounter issues or have questions, feel free to open an [issue](https://github.com/aadhi0612/NVIDIA-NIM-Demo/issues) in this repository.
+
+## Acknowledgments
+
+- NVIDIA for providing tools and support for NIM.
+- Contributors to this project for their efforts.
+
+---
+
+**Author**: [Aadhityaa SB](https://www.linkedin.com/in/aadhi0612/)
+```
