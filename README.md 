@@ -1,16 +1,16 @@
 Here’s the full content you can directly copy and paste into your `README.md` file:
 
-```markdown
+markdown
 # NVIDIA NIM Demo
 
 This repository demonstrates NVIDIA's Network Infrastructure Management (NIM) capabilities. It includes examples and configurations to showcase the features, functionalities, and use cases of NVIDIA NIM.
 
 ## Features
 
-- **Network Monitoring**: View and analyze network traffic in real-time.
-- **Infrastructure Automation**: Automate network configurations and tasks.
-- **Performance Optimization**: Enhance network throughput and reduce latency.
-- **Integration Examples**: Examples of integrating NIM with existing systems.
+- Network Monitoring: View and analyze network traffic in real-time.
+- Infrastructure Automation: Automate network configurations and tasks.
+- Performance Optimization: Enhance network throughput and reduce latency.
+- Integration Examples: Examples of integrating NIM with existing systems.
 
 ## Prerequisites
 
@@ -71,9 +71,9 @@ docker run -it --rm --name=$CONTAINER_NAME \
 
 ### Example Scenarios
 
-- **Monitoring Traffic**: View network metrics in real-time.
-- **Automating Configurations**: Use predefined scripts to configure your network devices.
-- **Analyzing Performance**: Generate performance reports.
+- Monitoring Traffic: View network metrics in real-time.
+- Automating Configurations: Use predefined scripts to configure your network devices.
+- Analyzing Performance: Generate performance reports.
 
 ## Repository Structure
 
@@ -110,7 +110,7 @@ If you encounter issues or have questions, feel free to open an [issue](https://
 
 ---
 
-**Author**: [Aadhityaa SB](https://www.linkedin.com/in/aadhi0612/)
+Author: [Aadhityaa SB](https://www.linkedin.com/in/aadhi0612/)
 ```
 
 This is the complete and ready-to-use `README.md` file. You can copy and paste this as it is into your GitHub repository. Let me know if you need anything else!

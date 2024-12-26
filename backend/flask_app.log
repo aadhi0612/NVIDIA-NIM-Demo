@@ -446,3 +446,39 @@
 2024-11-15 12:25:14,864 - INFO - Command stderr: 
 2024-11-15 12:25:14,864 - INFO - Translation successful: Pouvez-vous expliquer à propos de LLM
 2024-11-15 12:25:14,865 - INFO - 127.0.0.1 - - [15/Nov/2024 12:25:14] "POST /translate HTTP/1.1" 200 -
+2024-11-15 14:36:00,618 - INFO - Starting server on port 5007
+2024-11-15 14:36:00,618 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-15 14:36:00,618 - INFO - Script path: /home/ubuntu/NVIDIA-AI/backend/nmt.py
+2024-11-15 14:36:00,651 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2024-11-15 14:36:00,651 - INFO -  * Running on http://172.31.11.168:5007/ (Press CTRL+C to quit)
+2024-11-15 14:36:00,653 - INFO -  * Restarting with stat
+2024-11-15 14:36:00,825 - INFO - Starting server on port 5007
+2024-11-15 14:36:00,826 - INFO - RIVA_DIR: /home/ubuntu/NVIDIA-AI
+2024-11-15 14:36:00,826 - INFO - Script path: /home/ubuntu/NVIDIA-AI/backend/nmt.py
+2024-11-15 14:36:00,831 - WARNING -  * Debugger is active!
+2024-11-15 14:36:00,839 - INFO -  * Debugger PIN: 658-873-921
+2024-11-15 14:37:19,668 - INFO - 127.0.0.1 - - [15/Nov/2024 14:37:19] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 14:37:20,700 - INFO - === New Translation Request ===
+2024-11-15 14:37:20,700 - INFO - Time: 2024-11-15 14:37:20.700891
+2024-11-15 14:37:20,701 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '83', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 14:37:20,701 - INFO - Request data: {'text': 'Hii how are you?', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-15 14:37:20,701 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text Hii how are you? --source-language-code en --target-language-code fr
+2024-11-15 14:37:21,927 - INFO - Command return code: 0
+2024-11-15 14:37:21,928 - INFO - Command stdout: Hii comment allez vous?
+
+2024-11-15 14:37:21,928 - INFO - Command stderr: 
+2024-11-15 14:37:21,928 - INFO - Translation successful: Hii comment allez vous?
+2024-11-15 14:37:21,928 - INFO - 127.0.0.1 - - [15/Nov/2024 14:37:21] "POST /translate HTTP/1.1" 200 -
+2024-11-15 15:11:08,177 - INFO - 127.0.0.1 - - [15/Nov/2024 15:11:08] "[35m[1mOPTIONS /translate HTTP/1.1[0m" 204 -
+2024-11-15 15:11:08,947 - INFO - === New Translation Request ===
+2024-11-15 15:11:08,947 - INFO - Time: 2024-11-15 15:11:08.947473
+2024-11-15 15:11:08,947 - INFO - Headers: {'Host': 'localhost:5007', 'Connection': 'keep-alive', 'Content-Length': '105', 'Sec-Ch-Ua-Platform': '"Linux"', 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36', 'Sec-Ch-Ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?0', 'Accept': '*/*', 'Origin': 'http://localhost:3007', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3007/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8'}
+2024-11-15 15:11:08,947 - INFO - Request data: {'text': 'Hii can you explain abouthow cpu works', 'source_language_code': 'en', 'target_language_code': 'fr'}
+2024-11-15 15:11:08,948 - INFO - Executing command: python3 /home/ubuntu/NVIDIA-AI/backend/nmt.py --server 0.0.0.0:50051 --text Hii can you explain abouthow cpu works --source-language-code en --target-language-code fr
+2024-11-15 15:11:09,539 - INFO - Command return code: 0
+2024-11-15 15:11:09,539 - INFO - Command stdout: Hii peux tu expliquer à proposde comment fonctionne le cpu
+
+2024-11-15 15:11:09,539 - INFO - Command stderr: 
+2024-11-15 15:11:09,539 - INFO - Translation successful: Hii peux tu expliquer à proposde comment fonctionne le cpu
+2024-11-15 15:11:09,540 - INFO - 127.0.0.1 - - [15/Nov/2024 15:11:09] "POST /translate HTTP/1.1" 200 -
